@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>tech.luv2code99</groupId>
+  <artifactId>junit-5-basics</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20220106.084308</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20220106084308</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>0.0.1-20220106.084308-1</value>
+        <updated>20220106084308</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>0.0.1-20220106.084308-1</value>
+        <updated>20220106084308</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>

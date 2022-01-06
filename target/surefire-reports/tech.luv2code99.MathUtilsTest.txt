@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: tech.luv2code99.MathUtilsTest
+-------------------------------------------------------------------------------
+Tests run: 8, Failures: 0, Errors: 0, Skipped: 1, Time elapsed: 0.197 s - in tech.luv2code99.MathUtilsTest
